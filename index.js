@@ -26,6 +26,6 @@ inquirer
         </svg>
         `;
 
-        fs.writeFileSync('logo.svg', svgContent);
+        fs.writeFileSync('./examples/logo.svg', svgContent);
         console.log('Generated logo.svg');
     });
