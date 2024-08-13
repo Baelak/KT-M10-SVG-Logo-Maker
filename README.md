@@ -20,7 +20,7 @@ https://github.com/Baelak/KT-M10-SVG-Logo-Maker
 ## Features
 There is a total of four question that require the user to enter or make a choice Enter text (up to 3 characters): KVC
 ## Dependencies
-Inquirer and Jest are the two dependencies used.
+Inquirer and Jest are the two dependencies used for this build.
 ## Languages and Technologies:
 Javascript and Node.Js was used to build this application.
 ## Contributors
