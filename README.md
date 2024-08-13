@@ -1,6 +1,6 @@
 
   <div style="display: flex; justify-content: center; border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 20px;">
-  <img src="./generatedQR.png" alt="Logo" style="max-height: 200px; max-width: 200px;">
+  <img src="./generatedQR.png" alt="Logo" style="max-height: 100px; max-width: 100px;">
 </div>
    
 ## SVG Logo Maker
